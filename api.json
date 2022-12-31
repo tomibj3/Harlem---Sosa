@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 7500,
+        "id": 1,
+        "title": "Remera Ocean",
+        "thumbnailUrl": "https://img.freepik.com/psd-gratis/maqueta-tripulacion-tres-mezclas-hombre_126278-134.jpg?w=740&t=st=1672265504~exp=1672266104~hmac=5650e1de55fd95afac3ecb4d245ea4c08ce3cc44bed48392a6b59a8c3ee8592b"
+    },
+    {
+        "precio": 7900,
+        "id": 2,
+        "title": "Remera Coral",
+        "thumbnailUrl": "https://img.freepik.com/psd-gratis/maqueta-cvc-hombre_126278-114.jpg?w=740&t=st=1672265530~exp=1672266130~hmac=dcf7d0cbd5e667c645301f7323d6590ef9a9c85f14b37cf0b5204c8752906d51"
+    },
+    {
+        "precio": 7900,
+        "id": 3,
+        "title": "Remera Pink",
+        "thumbnailUrl": "https://img.freepik.com/psd-gratis/maquetas-camiseta-manga-corta-hombre-03_126278-124.jpg?w=740&t=st=1672265623~exp=1672266223~hmac=d5656610548b80b1841e7fd7a1055fdef485d61eb3d97f93d2eb4d0375d1de7c"
+    },
+    {
+        "precio": 13000,
+        "id": 4,
+        "title": "Hoodie White",
+        "thumbnailUrl": "https://img.freepik.com/psd-gratis/mockup-simple-sudadera-capucha-blanca-psd-ropa-hombre-comoda-deportiva_53876-98582.jpg?w=740&t=st=1672265021~exp=1672265621~hmac=b0741396ed84626eb51d53710bbf4a37dc1e1ecac3a73dc2971a4dd973a8d68b"
+    },
+    {
+        "precio": 11500,
+        "id": 5,
+        "title": "Hoodie Orange",
+        "thumbnailUrl": "https://img.freepik.com/psd-gratis/jerzees-sudadera-capucha-maqueta-01_126278-94.jpg?w=740&t=st=1672265921~exp=1672266521~hmac=215db7ba12fb415cc13ef0c98fbf673c6f36babcaaa399118332d18e40dc0974"
+    },
+    {
+        "precio": 6300,
+        "id": 6,
+        "title": "Musculosa Sky",
+        "thumbnailUrl": "https://img.freepik.com/psd-gratis/maqueta-unisex-capucha-cremallera-polar-polar-04_126278-196.jpg?w=740&t=st=1672265884~exp=1672266484~hmac=b09b19adb7e75bf5f66e21b00631e2db033be088c0018707912981e1ddf3cc7e"
+    }
+]
